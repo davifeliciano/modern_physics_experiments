@@ -4,3 +4,6 @@
 [submodule "franck_hertz"]
 	path = franck_hertz
 	url = https://github.com/davifeliciano/franck_hertz.git
+[submodule "xrays"]
+	path = xrays
+	url = https://github.com/davifeliciano/xrays.git
