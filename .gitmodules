@@ -1,0 +1,3 @@
+[submodule "stefan_boltzmann"]
+	path = stefan_boltzmann
+	url = https://github.com/davifeliciano/stefan_boltzmann.git
