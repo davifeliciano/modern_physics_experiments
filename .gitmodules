@@ -1,3 +1,6 @@
 [submodule "stefan_boltzmann"]
 	path = stefan_boltzmann
 	url = https://github.com/davifeliciano/stefan_boltzmann.git
+[submodule "franck_hertz"]
+	path = franck_hertz
+	url = https://github.com/davifeliciano/franck_hertz.git
